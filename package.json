@@ -1,0 +1,11 @@
+{
+  "name": "license",
+  "version": "1.0.0",
+  "main": ".license/license.js",
+  "author": "J_DDev",
+  "license": "MIT",
+  "types": ".license/license.d.ts",
+  "scripts": {
+    "start": "node .license/license.js"
+  }
+}
