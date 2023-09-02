@@ -1,4 +1,4 @@
-declare type licenseAgurments = "MIT";
+declare type licenseAgurments = "MIT" | "Apache";
 declare interface generateLicenseOptions {
     author: string;
     data?: null

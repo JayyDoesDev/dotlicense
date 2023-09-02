@@ -1,6 +1,10 @@
 [
-    {
-        "name": "MIT",
-        "location": "{dirname}/licenses/MIT.txt"
-    }
+  {
+    "name": "MIT",
+    "location": "{dirname}/licenses/MIT.txt"
+  },
+  {
+    "name": "Apache",
+    "location": "{dirname}/licenses/Apache.txt"
+  }
 ]

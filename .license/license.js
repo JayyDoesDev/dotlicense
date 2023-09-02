@@ -24,7 +24,7 @@ const path = require("path");
 const license = require("./license.json");
 const fs = require("fs");
 
-const licenseAgurments = "MIT" | "";
+const licenseAgurments = "MIT" | "Apache";
 const licenceNames = [];
 for (let i = 0; i < license.length; i++) {
   licenceNames.push(license[i].name);
